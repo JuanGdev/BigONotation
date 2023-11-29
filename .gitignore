@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Specific files
+mi_programa
+testing
